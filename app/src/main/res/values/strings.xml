@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RoomLibrary</string>
+    <string name="Names">Name</string>
+    <string name="txtAge">Age</string>
+    <string name="btntSave">Save</string>
+    <string name="txtName">Name</string>
+    <string name="btnsave">Save</string>
+    <string name="txtRecords">Number of Records</string>
+</resources>
